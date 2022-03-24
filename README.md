@@ -1,2 +1,1 @@
-# get-started-with-react
-Get started with react code
+# Moved to https://github.com/jimbol/learn-react
